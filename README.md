@@ -1,2 +1,2 @@
 # Shopping-website
-# view Project : https://rick7890.github.io/Shopping-website/
+# view Project : https://rickpratihar.github.io/Shopping-website/
